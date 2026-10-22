@@ -1,0 +1,5 @@
+This file is intentionally crafted to test
+cross buffer scanning in PANACEA.
+The word MAL
+W
+ARE is split across reads.

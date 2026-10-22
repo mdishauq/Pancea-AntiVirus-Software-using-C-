@@ -1,0 +1,4 @@
+This is a normal looking text file.
+Nothing suspicious here.
+But hidden in plain sight is the word MALWARE
+which PANACEA should detect correctly.
